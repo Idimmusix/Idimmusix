@@ -9,5 +9,5 @@ and not waste my time in front of computers.
 My biggest regret was listening to them then.
 But this is me in 2022 trying to start afresh
 but now with Javascript and Python.
-
-IfYour good advice is welcome.
+Your good advice is highly welcome.
+idimmusix@gmail.com

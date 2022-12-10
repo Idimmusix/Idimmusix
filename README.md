@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [idimma.idimmusix.com/cv](idimma.idimmusix.com/cv)
 
-- ⚡ Fun fact **I play piano, chess, and I write songs**
+- ⚡ Fun fact **I play piano, chess, and I write songs, I am also an animator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

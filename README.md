@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idimmachukwu Okoro</h1>
 <h3 align="center">A passionate backend and devops developer</h3>
 
-- 🔭 I’m currently working on [loveletterwriter](https://loveme.hng.tech)
+- 🔭 I’m currently working on [loveletterwriter](https://love-me.app)
 
 - 👨‍💻 All of my projects are available at [idimma.idimmusix.com/projects](idimma.idimmusix.com/projects)
 

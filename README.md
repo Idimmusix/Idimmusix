@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idimmusix&label=Profile%20views&color=0e75b6&style=flat" alt="idimmusix" /> </p>
 
+<p align="left"> <a href="https://twitter.com/idimmachukwu" target="blank"><img src="https://img.shields.io/twitter/follow/idimmachukwu?logo=twitter&style=for-the-badge" alt="Idimma" /></a> </p>
+
+
 - 🔭 I’m currently working on [loveletterwriter](https://love-me.app)
 
 - 👨‍💻 All of my projects are available at [idimma.idimmusix.com/projects](idimma.idimmusix.com/projects)

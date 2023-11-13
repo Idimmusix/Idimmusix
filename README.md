@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Idimmachukwu Okoro</h1>
-<h3 align="center">A passionate backend and devops developer</h3>
+<h1 align="center">Hi 👋, I'm Idimma</h1>
+<h3 align="center">A passionate backend and DevOps Engineer</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idimmusix&label=Profile%20views&color=0e75b6&style=flat" alt="idimmusix" /> </p>
 
 - 🔭 I’m currently working on [loveletterwriter](https://love-me.app)
 
@@ -7,11 +10,13 @@
 
 - 📝 I regularly write articles on [blog.idimmusix.com](blog.idimmusix.com)
 
-- 💬 Ask me about **devops, CICD frameworks, Django, FastAPI, Svelte**
+- 💬 Ask me about **DevOps, Cloud, SRE, Linux, CICD frameworks, FastAPI**
+
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **idimmusix@gmail.com**
 
-- 📄 Know about my experiences [idimma.idimmusix.com/cv](idimma.idimmusix.com/cv)
+- 📄 Know about my experiences [idimma.idimmusix.com](idimma.idimmusix.com)
 
 - ⚡ Fun fact **I play piano, chess, and I write songs, I am also an animator**
 
@@ -19,7 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/idimmachukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idimmachukwu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/idimmusix1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idimmusix1" height="30" width="40" /></a>
-<a href="https://fb.com/idimma.okoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idimma.okoro" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/idimmusix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/idimmusix" height="30" width="40" /></a>
+<a href="https://facebook.com/idimma.okoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idimma.okoro" height="30" width="40" /></a>
 <a href="https://instagram.com/idimmusix_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idimmusix_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/idimmusix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="idimmusix" height="30" width="40" /></a>
 </p>

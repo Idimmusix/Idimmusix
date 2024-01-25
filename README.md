@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [blog.idimmusix.com](blog.idimmusix.com)
 
-- 💬 Ask me about **DevOps, Cloud, SRE, Linux, CICD frameworks, FastAPI**
+- 💬 Ask me about **DevOps, Cloud, SRE, Linux, CICD frameworks, FastAPI, Kubernetes**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **argocd**
 
 - 📫 How to reach me **idimmusix@gmail.com**
 

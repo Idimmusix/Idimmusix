@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **idimmusix@gmail.com**
 
-- 📄 Know about my experiences [idimma.idimmusix.com](idimma.idimmusix.com)
+- 📄 Know about my experiences [idimma.idimmusix.com](https://idimma.idimmusix.com)
 
 - ⚡ Fun fact **I play piano, chess, and I write songs, I am also an animator**
 
